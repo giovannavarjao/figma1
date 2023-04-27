@@ -1,0 +1,42 @@
+*{
+    /* border: 1px solid red; */
+    border: 1px solid transparent;
+}
+
+.box{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    display: flex;
+}
+
+.principal{
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    margin: 0px;
+}
+
+.finally{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    padding: 1px;
+    margin: 90px;
+}
+
+h1 {
+    padding: 30px;
+}
+
+img {
+    padding: 10px;
+}
+
